@@ -1,14 +1,14 @@
 ﻿  Source.cpp
-C:\Users\User\Desktop\songCatalog\songCatalog\Source.cpp(104,56): warning C4114: Множественное использование одного и того же квалификатора типа.
-C:\Users\User\Desktop\songCatalog\songCatalog\Source.cpp(104,83): warning C4114: Множественное использование одного и того же квалификатора типа.
-C:\Users\User\Desktop\songCatalog\songCatalog\Source.cpp(106,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Desktop\songCatalog\songCatalog\Source.cpp(113,54): warning C4114: Множественное использование одного и того же квалификатора типа.
-C:\Users\User\Desktop\songCatalog\songCatalog\Source.cpp(113,81): warning C4114: Множественное использование одного и того же квалификатора типа.
-C:\Users\User\Desktop\songCatalog\songCatalog\Source.cpp(119,61): warning C4114: Множественное использование одного и того же квалификатора типа.
-C:\Users\User\Desktop\songCatalog\songCatalog\Source.cpp(119,88): warning C4114: Множественное использование одного и того же квалификатора типа.
-C:\Users\User\Desktop\songCatalog\songCatalog\Source.cpp(122,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Desktop\songCatalog\songCatalog\Source.cpp(130,43): warning C4114: Множественное использование одного и того же квалификатора типа.
-C:\Users\User\Desktop\songCatalog\songCatalog\Source.cpp(130,70): warning C4114: Множественное использование одного и того же квалификатора типа.
-C:\Users\User\Desktop\songCatalog\songCatalog\Source.cpp(149,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Desktop\songCatalog\songCatalog\Source.cpp(205,23): warning C4018: <: несоответствие типов со знаком и без знака
-  songCatalog.vcxproj -> C:\Users\User\Desktop\songCatalog\Debug\songCatalog.exe
+C:\Users\User\Desktop\SongExam\songCatalog\songCatalog\Source.cpp(104,56): warning C4114: Множественное использование одного и того же квалификатора типа.
+C:\Users\User\Desktop\SongExam\songCatalog\songCatalog\Source.cpp(104,83): warning C4114: Множественное использование одного и того же квалификатора типа.
+C:\Users\User\Desktop\SongExam\songCatalog\songCatalog\Source.cpp(106,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\SongExam\songCatalog\songCatalog\Source.cpp(113,54): warning C4114: Множественное использование одного и того же квалификатора типа.
+C:\Users\User\Desktop\SongExam\songCatalog\songCatalog\Source.cpp(113,81): warning C4114: Множественное использование одного и того же квалификатора типа.
+C:\Users\User\Desktop\SongExam\songCatalog\songCatalog\Source.cpp(119,61): warning C4114: Множественное использование одного и того же квалификатора типа.
+C:\Users\User\Desktop\SongExam\songCatalog\songCatalog\Source.cpp(119,88): warning C4114: Множественное использование одного и того же квалификатора типа.
+C:\Users\User\Desktop\SongExam\songCatalog\songCatalog\Source.cpp(122,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\SongExam\songCatalog\songCatalog\Source.cpp(130,43): warning C4114: Множественное использование одного и того же квалификатора типа.
+C:\Users\User\Desktop\SongExam\songCatalog\songCatalog\Source.cpp(130,70): warning C4114: Множественное использование одного и того же квалификатора типа.
+C:\Users\User\Desktop\SongExam\songCatalog\songCatalog\Source.cpp(149,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\SongExam\songCatalog\songCatalog\Source.cpp(205,23): warning C4018: <: несоответствие типов со знаком и без знака
+  songCatalog.vcxproj -> C:\Users\User\Desktop\SongExam\songCatalog\Debug\songCatalog.exe

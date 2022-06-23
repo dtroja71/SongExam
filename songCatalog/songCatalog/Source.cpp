@@ -230,6 +230,7 @@ void printMenu()
 	cout << "9. Выход\n" << endl;
 	cout << "Выберите пункт меню: ";
 	cin >> mainMenuIndex;
+
 	switch (mainMenuIndex)
 	{
 	case 1:
@@ -309,7 +310,7 @@ void printMenu()
 		break;
 
 	default:
-		cout << "---Ошибка выбора!---Повторите выбор---" << endl;;
+		cout << "---Ошибка выбора!---Повторите выбор---" << endl;
 		Sleep(1000);
 		CLS;
 		break;
@@ -327,7 +328,7 @@ int main()
 	while (true)
 	{
 		printMenu();
-
+		
 		
 
 		system("pause");
